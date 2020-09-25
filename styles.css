@@ -30,6 +30,7 @@ body {
     background-color: var(--embark-space1);
     color: var(--embark-astral1);
     font-family: 'IBM Plex Mono', 'monospace';
+    overflow: hidden;
 }
 
 html {
