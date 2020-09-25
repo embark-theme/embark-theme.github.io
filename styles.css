@@ -179,12 +179,12 @@ img {
   padding: 48px 0;
   background-color: var(--embark-space2);
   position: relative;
-  transform: rotate(-3deg);
+  transform: rotate(-2deg);
   width: 110%;
 }
 
 .palette > .container {
-  transform: rotate(3deg);
+  transform: rotate(2deg);
 }
 
 .palette-colors-row {
