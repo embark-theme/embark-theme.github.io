@@ -45,7 +45,6 @@ a {
 .color-block {
   height: 150px;
   width: 150px;
-  border: solid 0.5px var(--embark-astral0);
   display: flex;
   justify-content: center;
   align-items: center;
