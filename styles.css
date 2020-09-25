@@ -158,6 +158,9 @@ a {
   color: var(--embark-astral1);
 }
 
+.has-text-faded {
+  color: var(--embark-astral0);
+}
 
 
 
@@ -214,6 +217,38 @@ img {
   padding: 24px;
   min-height: 550px;
   position: relative;
+}
+
+code {
+  border: solid 1px var(--embark-space2);
+  background: var(--embark-space1);
+  display: block;
+  height: 100%;
+  padding: 8px;
+  position: relative;
+}
+
+.normal-mode {
+  background: var(--embark-cyan);
+  color: var(--embark-space0);
+  display: inline-block;
+  padding: 4px 6px;
+}
+
+.file {
+  background: var(--embark-space3);
+  color: var(--embark-astral1);
+  display: inline-block;
+  padding: 4px 6px;
+}
+
+.line-info {
+  position: absolute;
+  right: 0;
+  display: inline-block;
+  background: var(--embark-cyan);
+  color: var(--embark-space0);
+  padding: 4px 6px;
 }
 
 #ports {
