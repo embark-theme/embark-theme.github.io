@@ -151,6 +151,12 @@ body {
   color: var(--embark-yellow);
 }
 
+.has-text-white {
+  color: var(--embark-astral1);
+}
+
+
+
 
 .has-text-left {
   text-align: left;
@@ -221,6 +227,10 @@ img {
   transform: rotate(-2deg);
   background-color: var(--embark-space2);
   z-index: -1;
+}
+
+.port a {
+  text-decoration: none;
 }
 
 .palette-colors-row {
