@@ -226,6 +226,7 @@ code {
   height: 100%;
   padding: 8px;
   position: relative;
+  border-radius: 5px;
 }
 
 .normal-mode {
