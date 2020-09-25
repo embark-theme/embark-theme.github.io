@@ -194,7 +194,7 @@ img {
 #nav {
   display: flex;
   justify-content: space-between;
-  padding: 24px;
+  padding: 24px 0;
   font-size: 18px;
   text-transform: uppercase;
   margin-bottom: 24px;
