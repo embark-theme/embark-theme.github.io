@@ -184,13 +184,6 @@ img {
   max-width: 100%;
 }
 
-.construction {
-  padding: 16px;
-  background-color: var(--embark-yellow);
-  color: var(--embark-space0);
-  text-align: center;
-}
-
 #nav {
   display: flex;
   justify-content: space-between;
