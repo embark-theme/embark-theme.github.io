@@ -258,6 +258,7 @@ code {
   top: 0;
   bottom: 0;
   width: 110%;
+  left: -10px;
   transform: rotate(-2deg);
   background-color: var(--embark-space2);
   z-index: -1;
