@@ -154,6 +154,10 @@ a {
   color: var(--embark-yellow);
 }
 
+.has-text-dark-yellow {
+  color: var(--embark-yellow);
+}
+
 .has-text-white {
   color: var(--embark-astral1);
 }
