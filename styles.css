@@ -268,12 +268,21 @@ code {
   z-index: -1;
 }
 
-.port a {
-  text-decoration: none;
+#palette {
+  margin-bottom: 120px;
 }
 
-.palette-colors-row {
-  border: solid 1px --var(--embark-space0);
+footer {
+  height: 48px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: var(--embark-space0);
+}
+
+.port a {
+  text-decoration: none;
 }
 
 .no-gap {
