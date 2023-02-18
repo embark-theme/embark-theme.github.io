@@ -166,6 +166,9 @@ a {
   color: var(--embark-astral0);
 }
 
+code {
+  font-family: 'IBM Plex Mono', 'monospace';
+}
 
 
 .has-text-left {
