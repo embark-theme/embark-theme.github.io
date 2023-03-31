@@ -284,6 +284,11 @@ footer {
   background: var(--embark-space0);
 }
 
+.port {
+  display: flex;
+  column-gap: 8px
+}
+
 .port a {
   text-decoration: none;
 }
