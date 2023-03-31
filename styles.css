@@ -170,6 +170,26 @@ code {
   font-family: 'IBM Plex Mono', 'monospace';
 }
 
+.cursor {
+  animation: blinking 1s infinite;
+}
+
+@keyframes blinking {
+  0% {
+    background-color: var(--embark-green);
+    color: var(--embark-space1);
+  }
+
+  50% {
+    background-color: var(--embark-space1);
+    color: var(--embark-green);
+  }
+
+  100% {
+    background-color: var(--embark-green);
+    color: var(--embark-space1);
+  }
+}
 
 .has-text-left {
   text-align: left;
