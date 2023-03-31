@@ -288,6 +288,10 @@ footer {
   text-decoration: none;
 }
 
+.port span.icon i.ri-hammer-fill {
+  transform: rotate(45deg);
+}
+
 .no-gap {
   margin: 0 !important;
 }
