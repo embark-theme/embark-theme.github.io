@@ -142,6 +142,10 @@ a {
   color: var(--embark-blue);
 }
 
+.has-text-dark-blue {
+  color: var(--embark-dark-blue);
+}
+
 .has-text-green {
   color: var(--embark-green);
 }
