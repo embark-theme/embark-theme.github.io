@@ -166,8 +166,12 @@ a {
   color: var(--embark-astral1);
 }
 
-.has-text-faded {
+.has-text-comment {
   color: var(--embark-astral0);
+}
+
+.has-text-line-nr {
+  color: var(--embark-space4);
 }
 
 code {
